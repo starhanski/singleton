@@ -1,0 +1,17 @@
+C:\Users\everu\source\repos\lab 3 Singleton\lab 3 Singleton\obj\Debug\net6.0-windows\lab 3 Singleton.csproj.AssemblyReference.cache
+C:\Users\everu\source\repos\lab 3 Singleton\lab 3 Singleton\obj\Debug\net6.0-windows\lab_3_Singleton.Form1.resources
+C:\Users\everu\source\repos\lab 3 Singleton\lab 3 Singleton\obj\Debug\net6.0-windows\lab 3 Singleton.csproj.GenerateResource.cache
+C:\Users\everu\source\repos\lab 3 Singleton\lab 3 Singleton\obj\Debug\net6.0-windows\lab 3 Singleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\everu\source\repos\lab 3 Singleton\lab 3 Singleton\obj\Debug\net6.0-windows\lab 3 Singleton.AssemblyInfoInputs.cache
+C:\Users\everu\source\repos\lab 3 Singleton\lab 3 Singleton\obj\Debug\net6.0-windows\lab 3 Singleton.AssemblyInfo.cs
+C:\Users\everu\source\repos\lab 3 Singleton\lab 3 Singleton\obj\Debug\net6.0-windows\lab 3 Singleton.csproj.CoreCompileInputs.cache
+C:\Users\everu\source\repos\lab 3 Singleton\lab 3 Singleton\bin\Debug\net6.0-windows\lab 3 Singleton.exe
+C:\Users\everu\source\repos\lab 3 Singleton\lab 3 Singleton\bin\Debug\net6.0-windows\lab 3 Singleton.deps.json
+C:\Users\everu\source\repos\lab 3 Singleton\lab 3 Singleton\bin\Debug\net6.0-windows\lab 3 Singleton.runtimeconfig.json
+C:\Users\everu\source\repos\lab 3 Singleton\lab 3 Singleton\bin\Debug\net6.0-windows\lab 3 Singleton.dll
+C:\Users\everu\source\repos\lab 3 Singleton\lab 3 Singleton\bin\Debug\net6.0-windows\lab 3 Singleton.pdb
+C:\Users\everu\source\repos\lab 3 Singleton\lab 3 Singleton\obj\Debug\net6.0-windows\lab 3 Singleton.dll
+C:\Users\everu\source\repos\lab 3 Singleton\lab 3 Singleton\obj\Debug\net6.0-windows\refint\lab 3 Singleton.dll
+C:\Users\everu\source\repos\lab 3 Singleton\lab 3 Singleton\obj\Debug\net6.0-windows\lab 3 Singleton.pdb
+C:\Users\everu\source\repos\lab 3 Singleton\lab 3 Singleton\obj\Debug\net6.0-windows\lab 3 Singleton.genruntimeconfig.cache
+C:\Users\everu\source\repos\lab 3 Singleton\lab 3 Singleton\obj\Debug\net6.0-windows\ref\lab 3 Singleton.dll
